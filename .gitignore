@@ -1,0 +1,9 @@
+# PRD - excluded from repo
+rumi_growth_blog_prd.md
+
+# Claude Code local settings
+.claude/
+
+# macOS
+.DS_Store
+**/.DS_Store
