@@ -763,6 +763,7 @@ p {
 .blog-post section {
   padding: 1.8rem 0;
   border-bottom: 1px solid rgba(255, 255, 255, 0.48);
+  scroll-margin-top: 7rem;
 }
 
 .blog-post h2 {
